@@ -7,8 +7,8 @@ public class testeo extends TestCase {
 	App cuentaB;
 	
 	protected void setUp() {
-	cuentaA=new App("Miguel", 500, 0);
-	cuentaB=new App("Hector",20, 10);
+	cuentaA=new App(500, 0);
+	cuentaB=new App(20, 10);
 	}
 	
 	public void testSimpleAdd() { 

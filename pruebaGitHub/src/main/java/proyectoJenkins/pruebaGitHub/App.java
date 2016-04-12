@@ -4,7 +4,7 @@ public class App{
 	private int maxIngreso;
 	private int dinero;
 	
-	public App (String nombre, int maxIngreso, int dinero){
+	public App (int maxIngreso, int dinero){
 		this.maxIngreso=maxIngreso;
 		this.dinero=dinero;
 	}
