@@ -2,7 +2,7 @@ package proyectoJenkins.pruebaGitHub;
 
 import junit.framework.TestCase;
 
-public class AppTest extends TestCase {
+public class testeo extends TestCase {
 	App cuentaA;
 	App cuentaB;
 	
