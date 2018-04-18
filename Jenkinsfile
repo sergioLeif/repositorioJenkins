@@ -1,5 +1,4 @@
 genericSlave{
-        agent jenkins-slave{
         GIT_REPO_URL = 'https://github.com/sergioLeif/repositorioJenkins.git'
         DEPLOY_LIBS_ARTIFACTORY = 'NO'
         LIB_POM_PATH='KETR-LIBS'
@@ -50,5 +49,4 @@ genericSlave{
 
         ARQUITECTURA
         LENGUAJE
-        }
 }
