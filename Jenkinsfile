@@ -45,7 +45,7 @@ genericSlave{
     //Posibles valores 3.0.3 | 3.3.9 | 3.5.0
     MAVEN_VERSION='Maven 3.3.9'
 
-    //NODO='slave'
+    NODO='slave'
 
         ARQUITECTURA
         LENGUAJE
